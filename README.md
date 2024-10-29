@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tequinzyy/tequinzyy/master/name.svg" alt="Minh Quân" />
 </h1>
 
-## Hey! <img src="./wave.gif" alt="waving hand" width="24" />
+# Hey! <img src="https://cdn.7tv.app/emote/01G6570WGG000CM40ASKS091Y6/4x.webp" alt="waving hand" width="60" />
 I'm Quan, a 20 years old web developer from Vietnam.
 
 - 🌏 Based in Ho Chi Minh
@@ -18,7 +18,6 @@ I'm Quan, a 20 years old web developer from Vietnam.
 ## 📊 GitHub Stats:
 <br/>![](https://github-readme-stats.vercel.app/api?username=Tequinzyy&theme=neon&hide_border=true&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tequinzyy&theme=neon&hide_border=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tequinzyy&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
