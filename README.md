@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/tequinzyy/tequinzyy/slaveowner/name.svg" alt="Minh Quân" />
+</h1>
+
 # 💫 About Me:
 🌏 Based in Vietnam<br>🔭 Currently contributing to VietTour and Phoney Baloney<br>🌱 Passionate learner of Python and Golang<br>💬 Ask me about React, Nextjs, Svelte or SvelteKit
 
