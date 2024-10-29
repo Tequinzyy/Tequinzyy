@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/tequinzyy/tequinzyy/master/name.svg" alt="Minh Quân" />
+  <img src="https://raw.githubusercontent.com/tequinzyy/tequinzyy/master/name.svg" alt="Tequinzyy's" />
 </h1>
 
 # Hey! <img src="https://cdn.7tv.app/emote/01G6570WGG000CM40ASKS091Y6/4x.webp" alt="waving hand" width="60" />
