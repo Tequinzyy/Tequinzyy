@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tequinzyy/tequinzyy/master/name.svg" alt="Minh Quân" />
 </h1>
 
-## Hey! ![waving hand](wave.gif)
+## Hey! <img src="./wave.gif" alt="waving hand" width="24" />
 I'm Quan, a 20 years old web developer from Vietnam.
 
 - 🌏 Based in Ho Chi Minh
