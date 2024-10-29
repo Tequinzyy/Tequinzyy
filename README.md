@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/tequinzyy/tequinzyy/slaveowner/name.svg" alt="Minh Quân" />
+  <img src="https://raw.githubusercontent.com/tequinzyy/tequinzyy/master/name.svg" alt="Minh Quân" />
 </h1>
 
 # 💫 About Me:
